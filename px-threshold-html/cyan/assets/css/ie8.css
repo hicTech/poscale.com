@@ -1,0 +1,72 @@
+/*
+	Threshold by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+*/
+
+/* Basic */
+
+	.button {
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+	ul.icon li {
+		margin: 0em 1em;
+	}
+
+/* Nav */
+
+	#nav li.active a {
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+	.dropotron.level-0 {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+		.dropotron.level-0:before {
+			display: none;
+		}
+
+/* Extra #1 */
+
+	#extra ul {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+		#extra ul img {
+			position: relative;
+			-ms-behavior: url("assets/js/ie/PIE.htc");
+		}
+
+/* Pennant */
+
+	.pennant {
+		width: 4em;
+		height: 4em;
+		font-size: 1.8em;
+	}
+
+		.pennant:before {
+			width: 4em;
+			height: 4em;
+		}
+
+		.pennant .fa {
+			line-height: 2em;
+		}
+
+/* Newsletter */
+
+	#subscribe .text {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+		padding-top: 10px;
+	}
+
+	#subscribe .submit {
+		position: absolute;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
